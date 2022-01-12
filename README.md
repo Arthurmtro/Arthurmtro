@@ -1,7 +1,7 @@
 <img src="http://views.whatilearened.today/views/github/Arthurmtro/views.svg"/>
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
-  🧔 Moi c'est <bold>Arthur</bold>. 23 ans, un amateur de code et de sport.<br/>
+  🧔 Moi c'est <bold>Arthur</bold>. 20 ans, un amateur de code et de sport.<br/>
   💼 J'habite à <a href="https://www.google.com/maps?q=chambretaud">Chambretaud</a>, en France, (à coté de cholet).<br/>
   💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em>
 </p>

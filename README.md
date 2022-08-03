@@ -7,7 +7,7 @@ Web developer React/Next ts
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [www.mtro.fr](http://www.mtro.fr)
 * ✉️  You can contact me at [arthurmtro@gmail.com](mailto:arthurmtro@gmail.com)
-* 🧠  I'm learning SolidJS
+* 🧠  I'm learning Svelte
 
 ### Skills
 

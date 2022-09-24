@@ -1,7 +1,7 @@
 Hi 👋 My name is Arthur Monteiro
 ================================
 
-Web developer React/Next ts
+Web developer
 ---------------------------
 
 * 🌍  I'm based in France

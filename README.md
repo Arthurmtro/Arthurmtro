@@ -5,7 +5,7 @@ Web developer
 ---------------------------
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [www.mtro.fr](http://www.mtro.fr)
+* 🖥️  See my portfolio at [mtro.fr](https://mtro.fr) (currently doing rebranding [dev.mtro.fr](https://dev.mtro.fr) absolutely not finished yet !)
 * ✉️  You can contact me at [arthurmtro@gmail.com](mailto:arthurmtro@gmail.com)
 * 🧠  I'm learning Svelte
 

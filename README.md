@@ -6,8 +6,8 @@ Web developer
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [mtro.fr](https://mtro.fr) (currently doing rebranding absolutely not finished yet !)
-* ✉️  You can contact me at [arthur@mtro.fr](mailto:arthur@mtro.fr)
-* 🧠  I'm learning AdonysJS
+* ✉️  You can contact me at [arthurmtro@gmail.com](mailto:arthurmtro@gmail.com)
+* 🧠  I'm learning Unreal Engine
 
 ### Socials
 

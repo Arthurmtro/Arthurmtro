@@ -2,12 +2,11 @@ Hi 👋 My name is Arthur Monteiro
 ================================
 
 Web developer
+[mtro.fr](https://mtro.fr)
 ---------------------------
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [mtro.fr](https://mtro.fr) (currently doing rebranding absolutely not finished yet !)
 * ✉️  You can contact me at [arthurmtro@gmail.com](mailto:arthurmtro@gmail.com)
-* 🧠  I'm learning Unreal Engine
 
 ### Socials
 
